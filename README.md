@@ -23,17 +23,17 @@ I have excellent design & coding skills, as well as an ability to convert requir
  
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/anandmainali)
+[![Mustafa Gamal GitHub Stats](https://github-readme-stats.vercel.app/api?username=MustafaGamalM&show_icons=true&count_private=true)](https://github.com/MustafaGamalM/quran-app)
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MustafaGamalM&repo=salla&show_owner=true)](https://github.com/MustafaGamalM/salla)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MustafaGamalM&repo=quran-app&show_owner=true)](https://github.com/MustafaGamalM/quran-app)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mustafagamalm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mustafagamalm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@MustafaGamalM-blue?style=flat&logo=linkedin"></a>
 </p>
 
 
