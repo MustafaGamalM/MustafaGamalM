@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm Mustafa Gamal](https://www.linkedin.com/in/mustafagamalm/)
+### Hi there 👋 I'm [Mustafa Gamal](https://www.linkedin.com/in/mustafagamalm/)
 > Flutter developer
 
 
