@@ -10,6 +10,7 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=mustafagamalm&color=grey">
 </p>
+[![](https://visitcount.itsvg.in/api?id=MustafaGamalM&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="center">
     <a href="https://github.com/mustafagamalm"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafagamalm&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
