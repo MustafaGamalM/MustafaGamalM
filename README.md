@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Mustafa Gmal 👋 </h2>
+<h2> Hi there, I'm Mustafa Gamal 👋 </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mustafagamalm&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
