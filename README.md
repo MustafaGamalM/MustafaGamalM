@@ -19,6 +19,5 @@ const mustafaGamal = {
             native: ["Android Native"],
             tools: ["Android Studio", "Visual Studio Code" , "Figma", "Postman" , "Git"],
         },
-        devOps: ["CI/CD", "GitHub Actions", "Firebase", "Azure", "Sentry"],
     }
 };
