@@ -17,7 +17,7 @@ const mustafaGamal = {
         mobileAppFrameworks: {
             crossPlatform: ["Flutter"],
             native: ["Android Native"],
-            tools: ["Android Studio", "Visual Studio Code" , "Figma", "Postman" , "Git"],
+            tools: ["Android Studio", "Visual Studio Code" , "Figma" , "Zeplin" , "Postman" , "Git",  "Firebase", "GitHub" , "JIRA", "Microsoft Azure", "Sentry", "Fastlane","Crashlytics" , "DevTools"]
         },
     }
 };
