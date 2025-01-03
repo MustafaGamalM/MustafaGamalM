@@ -5,6 +5,22 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mustafagamalm?label=MustafaGamalM)](https://x.com/intent/follow?screen_name=mustafagamalm)
 [![Linkedin: mustafagamalm](https://img.shields.io/badge/-mustafagamalm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafagamalm/)](https://www.linkedin.com/in/mustafagamalm/)
 [![Gmail](https://img.shields.io/badge/-MustafaGamalM2-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mustafagamalm2@gmail.com)
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+</div>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 ```javascript
 const mustafaGamal = {
@@ -17,7 +33,15 @@ const mustafaGamal = {
         mobileAppFrameworks: {
             crossPlatform: ["Flutter"],
             native: ["Android Native"],
-            tools: ["Android Studio","Visual Studio Code","Figma","Zeplin","Postman","Git","GitHub","Firebase","Sentry","Crashlytics","Fastlane","Flutter DevTools"]
         },
-    }
+        tools: {
+            ides: ["Android Studio", "Visual Studio Code", "Xcode"],
+            versionControl: ["Git", "GitHub", "GitLab"],
+            apiTesting: ["Postman", "Insomnia"],
+            design: ["Figma", "Adobe XD", "Zeplin"],
+            debugging: ["Flutter DevTools", "Chrome DevTools"],
+            deployment: ["Firebase", "Fastlane", "Codemagic"],
+            collaboration: ["Microsoft Azure", "Jira"],
+        },
+    },
 };
