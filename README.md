@@ -25,11 +25,11 @@
 ```javascript
 const mustafaGamal = {
     fullName: "Mustafa Gamal",
-    programmingLanguages: ["Dart", "Java", "Python", "C++", "C#"],
+    programmingLanguages: ["Dart", "Java" , "Kotlin", "Python", "C++", "C#"],
     technologies: {
         mobileAppFrameworks: {
-            crossPlatform: ["Flutter"],
             native: ["Android Native"],
+            crossPlatform: ["Flutter"],
         },
         stateManagement: ["BLoC", "Provider", "Riverpod"],
         tools: {
