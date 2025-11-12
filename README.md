@@ -24,30 +24,19 @@
 
 ```javascript
 const mustafaGamal = {
-    fullName: "Mustafa Gamal",
     programmingLanguages: ["Dart", "Java" , "Kotlin", "Python", "C++", "C#"],
     technologies: {
         mobileAppFrameworks: {
             native: ["Android Native"],
-            crossPlatform: ["Flutter"],
+            crossPlatform: ["Flutter"]
         },
-        stateManagement: ["BLoC", "Provider", "Riverpod"],
         tools: {
-            ides: ["Android Studio", "Visual Studio Code", "Xcode"],
             versionControl: ["Git", "GitHub", "GitLab"],
-            apiTesting: ["Postman", "Insomnia"],
-            debugging: ["Flutter DevTools", "Chrome DevTools"],
-            ciCd: ["GitHub Actions", "Codemagic"],
-            design: ["Figma", "Zeplin"],
+            CI/CD: ["GitHub Actions", "Codemagic"]
         },
         deployment: {
-            platforms: ["Google Play Store", "App Store"],
-            services: ["Firebase", "Fastlane", "Codemagic"],
-        },
-        collaboration: {
-            tools: ["Microsoft Azure", "Jira"],
-            methodologies: ["Agile"],
-        },
+            platforms: ["Google Play Store", "App Store"]
+        }
     },
 };
 
