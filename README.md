@@ -32,7 +32,7 @@ const mustafaGamal = {
         },
         tools: {
             versionControl: ["Git", "GitHub", "GitLab"],
-            CI/CD: ["GitHub Actions", "Codemagic"]
+            CI/CD: ["GitHub Actions","Codemagic","Azure DevOps Pipelines", "Fastlane"]
         },
         deployment: {
             platforms: ["Google Play Store", "App Store"]
