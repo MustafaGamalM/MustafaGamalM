@@ -3,7 +3,7 @@
 <p>Mobile App Developer Specializing In Flutter And Android Development.</p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mustafagamalm?label=MustafaGamalM)](https://x.com/intent/follow?screen_name=mustafagamalm)
-[![Linkedin: mustafagamalm](https://img.shields.io/badge/-mustafagamalm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafagamalm/)](https://www.linkedin.com/in/mustafagamalm/)
+[![Linkedin: mustafagamalm](https://img.shields.io/badge/-MustafaGamalM-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MustafaGamalM/)](https://www.linkedin.com/in/MustafaGamalM/)
 [![Gmail](https://img.shields.io/badge/-MustafaGamalM2-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mustafagamalm2@gmail.com)
 <br>
 <div align="center">
