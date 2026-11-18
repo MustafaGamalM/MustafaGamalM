@@ -18,23 +18,83 @@
 <br>
 
 ```javascript
+
 const mustafaGamal = {
-    programmingLanguages: ["Dart", "Java", "Kotlin", "Python", "C++", "C#"],
+    programmingLanguages: [
+        "Dart",
+        "Java",
+        "Kotlin",
+        "Python",
+        "C++",
+        "C#",
+        "JavaScript"
+    ],
+
     technologies: {
+        frontend: {
+            languages: ["HTML5", "CSS3", "JavaScript"],
+            frameworks: ["React.js"]
+        },
+
         mobileAppFrameworks: {
             native: ["Android Native"],
             crossPlatform: ["Flutter"]
         },
+
         backend: {
-            frameworks: [".NET"],
-            languages: ["C#"]
+            frameworks: ["ASP.NET Core", ".NET", "Entity Framework Core"],
+            languages: ["C#"],
+            apiDevelopment: [
+                "RESTful APIs",
+                "Web API",
+                "Swagger / OpenAPI",
+                "SignalR"
+            ],
+            authentication: [
+                "JWT Authentication",
+                "OAuth 2.0",
+                "Role-Based Access Control (RBAC)"
+            ],
+            architecture: [
+                "Clean Architecture",
+                "Repository Pattern",
+                "Dependency Injection",
+                "SOLID Principles",
+                "Microservices"
+            ]
         },
+
+        databases: {
+            relational: ["SQL Server", "MySQL"]
+        },
+
         tools: {
             versionControl: ["Git", "GitHub", "GitLab"],
-            CI_CD: ["GitHub Actions", "Codemagic", "Azure DevOps Pipelines", "Fastlane"]
+            CI_CD: [
+                "GitHub Actions",
+                "Codemagic",
+                "Azure DevOps Pipelines",
+                "Fastlane"
+            ],
+            development: [
+                "Visual Studio",
+                "VS Code",
+                "Android Studio",
+                "Postman",
+                "Docker"
+            ]
         },
+
         deployment: {
-            platforms: ["Google Play Store", "App Store"]
+            platforms: [
+                "Google Play Store",
+                "App Store"
+            ],
+            backend: [
+                "IIS",
+                "Azure App Service"
+            ]
         }
-    },
+    }
 };
+
